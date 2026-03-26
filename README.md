@@ -1,15 +1,99 @@
-<h1 align="center">Hi 👋, I'm ashish</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<!-- 🔥 CUSTOM PROFILE IN HTML -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ashish yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish yadav" height="30" width="40" /></a>
-<a href="https://instagram.com/ashish_h07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashish_h07" height="30" width="40" /></a>
+<div align="center">
+  <h1>👨‍💻 Ashish Yadav</h1>
+  <p><b>Full Stack Developer | UI Experience Builder</b></p>
+</div>
+
+<hr/>
+
+<h2>🚀 About Me</h2>
+<p>
+I’m a <b>Full Stack Developer</b> who focuses on building <b>fast, responsive, and interactive web applications</b>.<br/><br/>
+I don’t just write code — I build <b>real user experiences</b>.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<ul>
+  <li>🚀 Strong in <b>Frontend Development (React + UI/UX)</b></li>
+  <li>⚡ Creating <b>smooth animations using GSAP</b></li>
+  <li>🌐 Backend with <b>Node.js, Express & MongoDB</b></li>
+  <li>🧠 State management using <b>Redux</b></li>
+  <li>🛠️ Tools: <b>Postman, ImageKit</b></li>
+</ul>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ay999579-ux&show_icons=true&locale=en&layout=compact" alt="ay999579-ux" /></p>
+<hr/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ay999579-ux&show_icons=true&locale=en" alt="ay999579-ux" /></p>
+<h2>⚡ My Approach</h2>
+<ul>
+  <li>Build <b>clean + scalable code</b></li>
+  <li>Focus on <b>performance & responsiveness</b></li>
+  <li>Create <b>interactive UI (not static pages)</b></li>
+  <li>Think like a <b>user, not just a developer</b></li>
+</ul>
+
+<hr/>
+
+<h2>🧰 Tech Stack</h2>
+
+<h3>💻 Frontend</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux" />
+</p>
+
+<h3>⚙️ Backend</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+<h3>🛠️ Tools & Libraries</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+<hr/>
+
+<h2>🚀 What I Build</h2>
+<ul>
+  <li>🌐 Full Stack Web Applications</li>
+  <li>🎬 Animated Landing Pages (GSAP)</li>
+  <li>⚛️ React-Based UI Systems</li>
+  <li>🔗 REST APIs (Node + Express)</li>
+  <li>📦 Database-driven apps (MongoDB)</li>
+</ul>
+
+<hr/>
+
+<h2>📊 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ay999579-ux&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ay999579-ux&theme=tokyonight" />
+</p>
+
+<hr/>
+
+<h2>🧠 Current Focus</h2>
+<ul>
+  <li>⚛️ Advanced React & Performance Optimization</li>
+  <li>🎬 Complex GSAP Animations</li>
+  <li>🌐 Full Stack Project Building</li>
+  <li>🔥 Real-world deployment & scaling</li>
+</ul>
+
+<hr/>
+
+<h2>🌐 Connect With Me</h2>
+<p align="center">
+  <a href="https://github.com/ay999579-ux">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/ashish_h07">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<hr/>
+
+<h2 align="center">⚡ "I turn ideas into fast, interactive, and scalable web experiences."</h2>
